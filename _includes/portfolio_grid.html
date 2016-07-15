@@ -1,0 +1,30 @@
+<!-- Portfolio Grid Section -->
+<section id="portfolio" class="bg-light-gray">
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-lg-12 text-center">
+            <!--<div class="team-member">
+               <img src="img/team/photo.jpg" class="img-responsive img-circle" alt="">
+            </div>--!>
+            <h2 class="section-heading">Xiaoyu Shen</h2>
+            <h3 class="section-subheading text-muted">Digital product designer <!-- |  <a href="#cv" >   CV  </a> --></h3>
+         </div>
+      </div>
+      <div class="row">
+         {% for post in site.posts %}
+         <div class="col-md-4 col-sm-6 portfolio-item  image-div">
+            <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+               <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                     <h3>{{ post.title }}</h3>
+                     <HR style="FILTER: alpha(opacity=100,finishopacity=50,style=3)" width="10%" color=#fffff SIZE=1>
+               		<p class="text-white">{{ post.subtitle }}</p>
+                  </div>
+               </div>
+               <img src="img/portfolio/thumbnail/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+            </a>
+         </div>
+         {% endfor %}
+      </div>
+   </div>
+</section>

@@ -1,0 +1,27 @@
+url: https://xiaoyudesign.com
+baseurl: 
+
+# Site settings
+title: Xiaoyu Shen
+email: shenxiaoyu0220@gmail.com
+description: "Online Portfolio of Xiaoyu Shen."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/kitty.shen.39
+  - title: github
+    url: https://github.com/shenxiaoyu
+  - title: linkedin
+    url: https://nl.linkedin.com/in/xiaoyu-shen-2bb074a8
+  - title: envelope
+    url: mailto:xiaoyu0220@gmail.com
+    
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -866,7 +866,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .close-modal {
-    position: fixed;
+    position: absolute;
     top: 25px;
     right: 25px;
     width: 75px;

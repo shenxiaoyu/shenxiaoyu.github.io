@@ -10,10 +10,7 @@ color:
   white: fff
 
 # Font Families
-#font:
-#  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-#  secondary: 'MuseoSans-500,"lato","Helvetica Neue", Helvetica,Arial,sans-serif'
-#  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
 font:
-  primary: 'Montserrat'
-  secondary: 'MuseoSans-500'
+ primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+ secondary: 'MuseoSans-500,"lato","Helvetica Neue", Helvetica,Arial,sans-serif'
+#  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'

@@ -11,7 +11,7 @@ project-date: January 2016
 client: Philips Lighting
 client-href: http://www.lighting.philips.nl/home
 category: Interactive Design
-description: Team project in January 2016 with <a href="http://www.lighting.philips.nl/home" target="_blank">Philips Light</a> as Client in design course “Design for Focused and Peripheral Interaction”. I mainly contributed in theory research, video analysis of behavior, product prototyping, interaction design and concept development.
+description: Team project in January 2016 with <a href="http://www.lighting.philips.nl/home" target="_blank">Philips Lighting</a> as Client in design course “Design for Focused and Peripheral Interaction”. I mainly contributed in theory research, video analysis of behavior, product prototyping, interaction design and concept development.
 link1: Project Report
 link1-href: https://www.dropbox.com/s/e1ktzk797c3wfa0/Design%20reportfinal-final.pdf?dl=0
 ---

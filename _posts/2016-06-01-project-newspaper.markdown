@@ -30,5 +30,5 @@ Font Design Exploration 2
 
 Font Design Exploration 3
 <img src="img/portfolio/pic/sweet-font.jpg" class="img-responsive img-centered" alt="Font Design Exploration 3">
-<img src="img/portfolio/pic/sweet-process.jpg" class="img-responsive img-centered" alt="Font Design Exploration 3">
+<img src="img/portfolio/pic/sweet-process-1.jpg" class="img-responsive img-centered" alt="Font Design Exploration 3">
 

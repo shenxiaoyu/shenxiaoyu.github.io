@@ -6,6 +6,14 @@ title: Xiaoyu Shen
 email: shenxiaoyu0220@gmail.com
 description: "Online Portfolio of Xiaoyu Shen."
 
+# Google analytics
+google_analytics:
+  provider : google
+  google : 
+      tracking_id : 'UA-80864588-1'
+  getclicky :
+    site_id :
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
